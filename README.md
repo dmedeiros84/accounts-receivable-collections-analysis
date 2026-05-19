@@ -48,7 +48,7 @@ The dataset contains simulated accounts receivable invoice data, including custo
 
 This page provides a high-level view of accounts receivable performance, including total invoiced amount, outstanding balance, overdue amount, collection rate, overdue percentage, aging buckets, top overdue customers, and overdue exposure by region.
 
-![AR Overview](images/dashboard_screenshot.png)
+![AR Overview](images/dashboard_screenshot_01.png)
 
 ### 2. Collections Insights
 
