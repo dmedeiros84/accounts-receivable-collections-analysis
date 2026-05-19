@@ -56,6 +56,12 @@ This page focuses on operational and risk insights, including high-risk exposure
 
 ![Collections Insights](images/collections_insights_screenshot.png)
 
+## Business Process Flow
+
+The diagram below shows the collections process using a BPMN-style workflow. It illustrates how invoices move from generation to payment confirmation, overdue classification, collections follow-up, escalation, and closure.
+
+![Collections Process Flow](process/collections_process_flow.png)
+
 ## Key Insights
 
 - A significant portion of overdue balances is concentrated in specific customers and industries.
@@ -90,5 +96,6 @@ This page focuses on operational and risk insights, including high-risk exposure
 - `dashboard/` - Power BI dashboard file
 - `documents/` - Business analysis documentation and executive insights
 - `images/` - Dashboard screenshots
-
+- `process/` - Process flow
+ 
 > Note: This project uses a simulated dataset created for portfolio purposes. The data does not represent any real company or customer.
