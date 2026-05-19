@@ -81,3 +81,10 @@ This page focuses on operational and risk insights, including high-risk exposure
 - Financial analysis
 - Business insights and recommendations
 - Executive communication
+
+## Project Files
+
+- `data/` - Excel dataset used for the analysis
+- `dashboard/` - Power BI dashboard file
+- `documents/` - Business analysis documentation and executive insights
+- `images/` - Dashboard screenshots
