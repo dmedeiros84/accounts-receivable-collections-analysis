@@ -54,6 +54,8 @@ This page provides a high-level view of accounts receivable performance, includi
 
 This page focuses on operational and risk insights, including high-risk exposure, overdue trends, collection priority, industry exposure, and invoice-level details for follow-up actions.
 
+![Collections Insights](images/collections_insights_screenshot.png)
+
 ## Key Insights
 
 - A significant portion of overdue balances is concentrated in specific customers and industries.
