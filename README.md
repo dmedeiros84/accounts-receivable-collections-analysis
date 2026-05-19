@@ -88,3 +88,5 @@ This page focuses on operational and risk insights, including high-risk exposure
 - `dashboard/` - Power BI dashboard file
 - `documents/` - Business analysis documentation and executive insights
 - `images/` - Dashboard screenshots
+
+> Note: This project uses a simulated dataset created for portfolio purposes. The data does not represent any real company or customer.
